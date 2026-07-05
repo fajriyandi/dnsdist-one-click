@@ -2,7 +2,7 @@
 
 # ============================================================
 #  DNS Installer - dnsdist + blocklist setup
-#  Author: auto-generated
+#  Author: Azhari Muzadi
 # ============================================================
 
 set -e
